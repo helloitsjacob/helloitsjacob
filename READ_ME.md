@@ -12,6 +12,7 @@ Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Pr
 - I love to hear and debate new ideas, theories, challenges, and opportunities. - I'm always open to new ideas, even if I may play devil's advocate 😅 at times.
 - I am always open to feedback and transparency, with the assumption of positive intent. Slack, live, or in documents/artifacts are the best place to provide me with feedback. 
 - 😶 I tend to start out quiet, observant, & with listening in mind but then I move more and more into extroverted moments where I can add value.
+- I work best when working on programs and initiativevs I'm passioante about.
                                                                                                                             
 
 ### What I value or (My absolute requirements to do great work are...)
@@ -28,6 +29,7 @@ Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Pr
 - Long drawn out processes or rhythms that could (and should) be automated or removed
 - Interrupting one another
 - Causing chaos for chaos-sake
+- Wasting time
   
 
 ### How to communicate with me and help me help you!
