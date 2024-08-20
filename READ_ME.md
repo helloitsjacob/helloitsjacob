@@ -43,6 +43,7 @@ Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Pr
 - Take a nap 😴
 - Hang out with my pup
 - Observe and Brainstorm
+- Cooking
 - Meditate
 - Excercise (🚲, 🏃, or 🏊‍♂️)
   
