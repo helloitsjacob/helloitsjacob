@@ -2,7 +2,7 @@
 
 _What is this? A Human User Guide or Personal Operating Manual is a portable, always up-to-date document meant to describe a Hubber’s work style. It is meant to be shared with your coworkers and updated as you learn more about yourself. Here is mine._ 
 
-Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Program Manager for the Office of the COO. I bring a breadth of experience across strategy, finance, and operations for Fortune 500 and start-ups a-like. You can typically find me trying to improve or automate processes, developing business cases, and bringing ideas and strategy to life through the lens of people and analysis.
+Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Program Manager for the Office of the COO. I bring a breadth of experience across strategy, finance, and operations for Fortune 500 and start-ups a-like. You can typically find me trying to improve or automate processes, developing business cases, and bringing ideas and strategy to life through the lens of human-centricity and logical analysis.
   
 ### My working and communications style:
 - I have a preference for async communication where possible, but I love collaborating together when it makes sense
