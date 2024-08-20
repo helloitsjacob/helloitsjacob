@@ -10,7 +10,7 @@ Hi! :wave: I’m Jacob (handle: @helloitsjacob). I joined GitHub in 2024 as a Pr
 - Bringing solutions and analytics data to the conversation will help me align what were doing today with where we want to go tomorrow
 - I work on a flexible schedule and across a number of time zones. I send (or schedule messages) for when they work best for me (or I believe will work best for you!), but feel free to respond at a time that is convienent for you. I like to disconnect from my 📞 and 💻 before or after shoulder hours (currently Eastern Time Zone). 
 - I love to hear and debate new ideas, theories, challenges, and opportunities. - I'm always open to new ideas, even if I may play devil's advocate 😅 at times.
-- I am always open to feedback and transparency, with the assumption of positive intent. Slack, Workday, or in documents/artifacts are the best place to provide me with feedback. 
+- I am always open to feedback and transparency, with the assumption of positive intent. Slack, live, or in documents/artifacts are the best place to provide me with feedback. 
 - 😶 I tend to start out quiet, observant, & with listening in mind but then I move more and more into extroverted moments where I can add value.
                                                                                                                             
 
